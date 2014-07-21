@@ -1,0 +1,9 @@
+.resume-table {
+  font-size: 25px;
+  margin-left: 190px;
+  font-weight: bold;
+}
+
+.resume-table td {
+  width: 250px;
+}
