@@ -7,3 +7,9 @@
 .resume-table td {
   width: 250px;
 }
+
+.portfolio-image img {
+  width: 400px;
+  height: 300px;
+  padding: 50px;
+}
