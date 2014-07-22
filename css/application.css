@@ -1,11 +1,19 @@
 .resume-table {
   font-size: 25px;
-  margin-left: 150px;
   font-weight: bold;
+  text-align: left;
+  margin-bottom: 35px;
+  float: left;
 }
 
-.resume-table td {
+.skills {
+  width: 230px;
+  border-right: 1px solid;
+}
+
+.skills-stars {
   width: 250px;
+  padding-left: 30px;
 }
 
 .portfolio {
