@@ -7,8 +7,12 @@
 }
 
 .skills {
-  width: 230px;
+  width: 280px;
   border-right: 1px solid;
+}
+
+.skills p {
+  font-size: 25px;
 }
 
 .skills-stars {
@@ -16,18 +20,6 @@
   padding-left: 30px;
 }
 
-.portfolio {
-  text-align: center;
-}
-
-.portfolio img {
-  width: 400px;
-  height: 300px;
-  padding: 50px;
-  border-radius: 35%;
-  margin-bottom: -40px;
-}
-
-.portfolio p {
-  font-size: 14px;
+.skills-stars p {
+  font-size: 25px;
 }
