@@ -39,7 +39,7 @@ p {
 }
 
 a {
-    color: #28c3ab;
+    color: #F0F0F0;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -127,7 +127,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/napier-bg.jpg) no-repeat bottom center scroll;
+    background: url(../img/napier.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -244,8 +244,8 @@ a:focus {
 .download-section {
     width: 100%;
     padding: 50px 0;
-    color: #fff;
-    background: url(../img/flowers.jpg) no-repeat center center scroll;
+    color: black;
+    background: url(../img/wellington.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -284,17 +284,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #28c3ab;
-    color: #28c3ab;
+    border: 1px solid #F0F0F0;
+    color: #F0F0F0;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #28c3ab;
+    border: 1px solid #F0F0F0;
     outline: 0;
     color: #000;
-    background-color: #28c3ab;
+    background-color: #F0F0F0;
 }
 
 .btn-huge {
