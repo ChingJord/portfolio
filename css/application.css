@@ -23,3 +23,19 @@
 .skills-stars p {
   font-size: 25px;
 }
+
+/* Recipe page */
+.recipe-title {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.recipe-row {
+  margin-bottom: 150px;
+}
+
+.ingredients {
+  font-size: 20px;
+  list-style: none;
+  padding-left: 0px;
+}
