@@ -1,0 +1,32 @@
+/* Recipe page */
+.recipe-title {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.recipe-row {
+  margin-bottom: 150px;
+}
+
+.ingredient-title {
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.ingredients {
+  font-size: 14px;
+  list-style: none;
+  padding-left: 0px;
+}
+
+.method-title {
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.method {
+  padding-left: 15px;
+  font-size: 14px;
+}

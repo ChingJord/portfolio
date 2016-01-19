@@ -1,0 +1,25 @@
+.resume-table {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 35px;
+  float: left;
+}
+
+.skills {
+  width: 280px;
+  border-right: 1px solid;
+}
+
+.skills p {
+  font-size: 25px;
+}
+
+.skills-stars {
+  width: 250px;
+  padding-left: 30px;
+}
+
+.skills-stars p {
+  font-size: 25px;
+}
